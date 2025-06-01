@@ -32,4 +32,4 @@
         
   networks:
     app-network:
-      driver: bridge
+      
