@@ -1,0 +1,6 @@
+[submodule "pokedex-reactApp"]
+	path = pokedex-reactApp
+	url = https://github.com/DersimAbbas/Pokedex-ReactApp
+[submodule "pokemonFuncAPI"]
+	path = pokemonFuncAPI
+	url = https://github.com/DersimAbbas/PokemonFunc-CosmosDB
